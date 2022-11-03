@@ -38,6 +38,15 @@
   left: -29px;
   z-index: 1; }
 
+.timeline-card-portfolio {
+  border-left-color: #DC6C4AFF; }
+
+.timeline-card-portfolio:before {
+  border-color: #DC6C4AFF; }
+
+.timeline-card-portfolio:after {
+  background-color: #DC6C4AFF; }
+
 .timeline-card-primary {
   border-left-color: #4A89DC; }
 
